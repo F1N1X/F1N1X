@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Steven (F1N1X)
 
-<!--
-**F1N1X/F1N1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Software Developer | Java • Backend • Microservices • Future-AI
+💻 Focused on scalable systems and continuous growth
 
-Here are some ideas to get you started:
+🌟 Professional Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich bin ein engagierter Junior Softwareentwickler mit Schwerpunkt auf Java-Backend-Systemen, skalierbaren Architekturen und verteilten Services.
+Mich treibt der Aufbau robuster Softwaresysteme ebenso an wie die kontinuierliche Weiterentwicklung meiner technischen Fähigkeiten.
+
+Mein Anspruch ist es, langfristig an komplexen und leistungsfähigen Systemen mitzuwirken und echte Produktivverantwortung zu übernehmen.
+
+🛠️ Core Competencies
+
+Backend-Entwicklung mit Java, Spring und Spring Boot
+Microservice-basierte Systemarchitekturen
+REST-basierte Schnittstellen
+Grundlagen von Loadbalancing und verteilten Systemen
+Versionskontrolle, Testing und strukturierte Entwicklungsprozesse
+
+📂 Selected Projects
+
+spring-boot-example
+Technisches Backend-Grundlagenprojekt mit klarer Schichtenarchitektur und REST-Konzepten.
+
+FreizeitApp
+Flutter-basierte mobile Anwendung zur Koordination von Events und Nutzerkommunikation.
+
+fullstack-food-delivery
+Skalierbares Backend-System auf Microservice-Basis mit Loadbalancer-Struktur für Bestell- und Auftragsverarbeitung.
+
+📚 Roadmap & Learning Goals
+
+Backend-Skalierung und Cloud-nahe Architekturen
+KI-Integration in Java-Anwendungen mit Spring AI
+Frontend-Entwicklung mit React und Angular
+Technische Verantwortung in produktiven Projektumgebungen
+
+🎯 Mindset & Drive
+
+Ich zeichne mich durch hohe Lernbereitschaft, klare Zielorientierung und starken inneren Antrieb aus.
+Ich habe große Motivation, mich fachlich stetig zu verbessern, neue Technologien aktiv einzusetzen und langfristig auf Senior-Niveau zu wachsen.
+Softwareentwicklung ist für mich nicht nur Beruf, sondern kontinuierlicher Entwicklungsprozess.
+
+📫 Contact
+
+GitHub
+https://github.com/F1N1X
+
+LinkedIn
+https://linkedin.com/in/steven-schwarzwälder-ba629433/
