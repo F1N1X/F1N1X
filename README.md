@@ -20,8 +20,11 @@ Versionskontrolle, Testing und strukturierte Entwicklungsprozesse
 
 📂 Selected Projects
 
+SB-eCommerz
+Scalable Backend System for Modern E-Commerce Applications  
+
 spring-boot-example
-Technisches Backend-Grundlagenprojekt mit klarer Schichtenarchitektur und REST-Konzepten.
+SB-eCommerz ist ein skalierbares E-Commerce-Backend mit moderner Architektur auf Basis von Java und Spring Boot, ergänzt durch ein angebundenes React-Frontend. Das Projekt dient als technische Grundlage für produktionsnahe Web-Commerce-Anwendungen.
 
 FreizeitApp
 Flutter-basierte mobile Anwendung zur Koordination von Events und Nutzerkommunikation.
