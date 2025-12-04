@@ -1,4 +1,4 @@
-👋 Steven (F1N1X)
+👋 Steven
 
 🚀 Junior Software Developer | Java • Backend • Microservices • Future-AI
 💻 Focused on scalable systems and continuous growth
