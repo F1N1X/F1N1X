@@ -1,6 +1,4 @@
 +----------------------+
-| hello, world         |
-| finix @ backend dev  |
+|     finix@backend     |
+|     hello, world      |
 +----------------------+
-
-skills: [#####-----]
