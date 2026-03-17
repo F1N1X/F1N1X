@@ -3,7 +3,7 @@ finix@backend:~$ whoami
 > datenmanager | backend-dev (in progress) | problem solver
 🧠 About Me
 
-Ich bin Datenbankmanager mit Fokus auf Datenqualität, Integrität und saubere Prozesse –
+Ich bin Datenbankmanager mit Fokus auf Datenqualität, Integrität und saubere Prozesse
 und entwickle mich parallel aktiv im Bereich Java Backend & Microservices weiter.
 
 Was mich ausmacht:
