@@ -1,152 +1,441 @@
-<p align="center">
-  <img src="./assets/f1n1x-banner.svg" width="100%" alt="F1N1X Java Backend Systems" />
-</p>
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <strong>Java Backend Engineering · Spring · Architecture · Continuous Improvement</strong>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:161B22,100:238636&text=F1N1X&fontColor=58A6FF&fontSize=62&fontAlignY=34&desc=JAVA%20BACKEND%20%2F%2F%20SYSTEMS%20%2F%2F%20ENGINEERING&descAlignY=57&descSize=16&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <code>Readable systems</code> · <code>Clear boundaries</code> · <code>Testable design</code> · <code>Deliberate learning</code>
-</p>
+<div align="center">
+
+<img src="https://github.com/F1N1X.png" width="105" style="border-radius:50%" />
+
+<br><br>
+
+### `finix@backend:~$ ./start.sh`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems...;Java+%2B+Spring+%2B+Architecture;Learning.+Building.+Refactoring.;Understanding+%3E+Copying;Curiosity+never+goes+offline." />
 
 <br>
 
-> engineering_profile
+<img src="https://img.shields.io/badge/JAVA-BACKEND-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING-ENGINEERING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-238636?style=for-the-badge" />
 
-I'm Steven / F1N1X. I build backend systems to understand them deeply, not just to make them run.
-
-My current focus is Java backend engineering with an emphasis on maintainability, explicit architecture and continuously improving the quality of my own code.
-
-FOUNDATIONS      Java · OOP · Interfaces · DI · Collections · Streams
-BACKEND          Spring Boot · REST · JPA · Security · JWT
-DATA             PostgreSQL · MySQL
-DELIVERY         Docker · AWS · GitHub Actions
-QUALITY          JUnit 5 · MockMvc · Testcontainers · Refactoring
-SYSTEMS          Service boundaries · Microservices · Eureka
-
-I care about the engineering decisions behind a solution: why this boundary, why this abstraction, why this dependency, and whether the result will still be understandable six months later.
+</div>
 
 <br>
 
-> currently_building
 
-🚗 car-booking
+<!-- ========================= WHOAMI ========================= -->
 
-A deliberate Java learning project that evolves through increasingly stronger engineering practices: interfaces, dependency injection, collections, streams, testing and Spring.
+## `> whoami`
 
-Java OOP DI DAO Streams Functional Programming File I/O
+```java
+public final class Steven {
 
+    private final String alias = "F1N1X";
+    private final String focus = "Java Backend Engineering";
 
+    void evolve() {
+        learn();
+        build();
+        understand();
+        refactor();
+        repeat();
+    }
+}
+```
 
+I build software because I want to understand **how systems actually work**.
 
-🧪 java-exercises
+My focus is not collecting technologies.
 
-My practice ground for strengthening Java fundamentals, experimenting with language features and turning new concepts into muscle memory.
+My focus is becoming better at:
 
-Java Streams Algorithms OOP Practice
+```text
+backend engineering
+software architecture
+clean code
+system design
+testing
+security
+continuous improvement
+```
 
+I care about the decisions behind software:
 
+`Why this abstraction?`  
+`Why this dependency?`  
+`Why this architecture?`  
+`Can it be simpler?`  
+`Will someone still understand it in six months?`
 
-
-<br>
-
-> selected_systems
-
-🛒 SB-eCommerce
-
-A modular RESTful eCommerce backend focused on the parts that matter in real backend systems: authentication, authorization, persistence, API design, testing and deployment.
-
-Spring Boot Spring Data JPA Spring Security 6 JWT PostgreSQL Docker AWS JUnit 5 Testcontainers
-
-🌐 food-backend
-
-Exploration of distributed backend architecture with multiple services and service discovery.
-
-Spring Microservices Eureka Service Boundaries
-
-📱 FreizeitApp
-
-Earlier product exploration outside the Java ecosystem: a Flutter/Dart mobile app concept for creating events and connecting people.
-
-Flutter Dart Mobile Product Thinking
-
-<br>
-
-> engineering_signals
-
-Backend first
-I strengthen fundamentals before hiding complexity behind frameworks.
-
-Architecture aware
-I care about separation of concerns, clear boundaries and code that can evolve without becoming fragile.
-
-Production minded
-Security, persistence, testing and deployment are part of the system, not afterthoughts.
-
-Evidence over claims
-Active repositories and visible commit history show what I am learning and building instead of relying on a list of buzzwords.
 
 <br>
 
-> toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,aws,git,github,flutter,dart" alt="Technology stack" />
-</p>
+<!-- ========================= STACK ========================= -->
 
-<p align="center">
-  <code>Java</code> · <code>Spring Boot</code> · <code>REST</code> · <code>JPA</code> · <code>Security</code> · <code>JWT</code> · <code>SQL</code> · <code>Docker</code> · <code>AWS</code>
-</p>
+## `> tech_stack --status`
 
-<br>
+<div align="center">
 
-> activity
+### ☕ Backend
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F1N1X&theme=github-compact&hide_border=true&area=true" width="96%" alt="F1N1X contribution activity" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CURIOSITY-ONLINE-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/LEARNING-ACTIVE-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/BUILDING-IN_PROGRESS-D29922?style=flat-square" />
-</p>
+<br><br>
 
-<br>
+### 🗄️ Data
 
-> philosophy
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
-<p align="center">
-  <strong>Wer aufhört zu lernen, hört auf zu wachsen.</strong>
-</p>
+<br><br>
 
-<p align="center">
-  I want to look at code I wrote months ago and think:
-</p>
+### ☁️ Engineering & Infrastructure
 
-<p align="center">
-  <strong><em>"I know how I would build this better today."</em></strong>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
 
-<p align="center">
-  Because that means I learned something.
-</p>
+<br><br>
 
-BUILD  →  QUESTION  →  LEARN  →  REFACTOR  →  BUILD
+### 🛠️ Development
 
-<p align="center">
-  <code>Readable &gt; Clever</code>
-  &nbsp;·&nbsp;
-  <code>Understanding &gt; Copying</code>
-  &nbsp;·&nbsp;
-  <code>Consistency &gt; Motivation</code>
-  &nbsp;·&nbsp;
-  <code>Progress &gt; Perfection</code>
-</p>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman" />
+
+<br><br>
+
+### 📱 Also explored
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</div>
 
 <br>
 
 <p align="center">
-  <code>F1N1X@backend:~$ keep_building_</code>
+
+`JAVA`
+`SPRING BOOT`
+`REST`
+`JPA`
+`SPRING SECURITY`
+`JWT`
+`SQL`
+`DOCKER`
+`AWS`
+`GIT`
+
 </p>
+
+
+<br>
+
+
+<!-- ========================= CURRENTLY BUILDING ========================= -->
+
+## `> currently_building`
+
+### 🚗 `car-booking`
+
+Core Java project focused on **design, architecture and stronger fundamentals**.
+
+```text
+OOP
+ ├── Interfaces
+ ├── Dependency Injection
+ ├── DAO
+ ├── Collections
+ ├── Streams
+ ├── Functional Programming
+ └── File Persistence
+```
+
+[![Last Commit](https://img.shields.io/github/last-commit/F1N1X/car-booking?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=238636)](https://github.com/F1N1X/car-booking)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/F1N1X/car-booking)
+
+
+### 🧪 `java-exercises`
+
+My playground for strengthening Java fundamentals and turning new concepts into practice.
+
+```text
+learn()
+   ↓
+experiment()
+   ↓
+break()
+   ↓
+understand()
+   ↓
+refactor()
+   ↓
+repeat()
+```
+
+[![Last Commit](https://img.shields.io/github/last-commit/F1N1X/java-exercises?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=1F6FEB)](https://github.com/F1N1X/java-exercises)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/F1N1X/java-exercises)
+
+
+<br>
+
+
+<!-- ========================= PROJECTS ========================= -->
+
+## `> selected_systems`
+
+<p align="center">
+
+<a href="https://github.com/F1N1X/SB-eCommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1N1X&repo=SB-eCommerce&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/F1N1X/car-booking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1N1X&repo=car-booking&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/F1N1X/food-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1N1X&repo=food-backend&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/F1N1X/java-exercises">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F1N1X&repo=java-exercises&theme=github_dark&hide_border=true" />
+</a>
+
+</p>
+
+
+### 🛒 `SB-eCommerce`
+
+RESTful backend with a stronger focus on real application concerns.
+
+`Spring Boot` · `Spring Data JPA` · `Spring Security` · `JWT` · `AWS`
+
+```text
+client
+   │
+   ▼
+REST API
+   │
+   ├── authentication
+   ├── authorization
+   ├── business logic
+   ├── persistence
+   └── infrastructure
+```
+
+
+### 🌐 `food-backend`
+
+Exploring distributed backend architecture.
+
+`Spring` · `Microservices` · `Eureka`
+
+```text
+             ┌─────────────┐
+             │   Eureka    │
+             └──────┬──────┘
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     Service A           Service B
+```
+
+
+### 📱 `FreizeitApp`
+
+Earlier exploration outside the backend ecosystem.
+
+`Flutter` · `Dart` · `Mobile Development`
+
+It represents something important to me:
+
+**I am interested in technology beyond a single stack.**
+
+
+<br>
+
+
+<!-- ========================= ENGINEERING ========================= -->
+
+## `> engineering_mindset`
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🧠
+### Understand
+
+Don't just use abstractions.
+
+Understand them.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🏗️
+### Build
+
+Knowledge becomes useful when you apply it.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔧
+### Refactor
+
+Working code is the beginning, not always the end.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📚
+### Learn
+
+Technology moves.
+
+So should I.
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+
+<!-- ========================= ACTIVITY ========================= -->
+
+## `> developer_activity`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=F1N1X&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1N1X&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true" width="96%" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CURIOSITY-ONLINE-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/BUILDING-IN_PROGRESS-D29922?style=flat-square" />
+
+</div>
+
+
+<br>
+
+
+<!-- ========================= PHILOSOPHY ========================= -->
+
+## `> philosophy.txt`
+
+<div align="center">
+
+### `stay curious.`
+
+<br>
+
+### **Wer aufhört zu lernen, hört auf zu wachsen.**
+
+<br>
+
+I want to look at code I wrote months ago and think:
+
+### *"I know how I would build this better today."*
+
+Because that means I learned something.
+
+<br>
+
+```text
+          BUILD
+            │
+            ▼
+        QUESTION
+            │
+            ▼
+          LEARN
+            │
+            ▼
+        REFACTOR
+            │
+            └──────────► BUILD AGAIN
+```
+
+<br>
+
+`Readable > Clever`
+
+`Understanding > Copying`
+
+`Consistency > Motivation`
+
+`Progress > Perfection`
+
+</div>
+
+
+<br>
+
+
+<!-- ========================= TERMINAL ========================= -->
+
+## `> system_status`
+
+```yaml
+developer:
+  alias: F1N1X
+  focus: Java Backend Engineering
+
+runtime:
+  curiosity: ONLINE
+  learning: ACTIVE
+  building: ACTIVE
+  refactoring: ENABLED
+
+current_focus:
+  - Java
+  - Spring
+  - Backend Architecture
+  - Functional Programming
+  - Clean Code
+
+next_version:
+  status: loading...
+```
+
+
+<br>
+
+
+<div align="center">
+
+```text
+F1N1X@backend:~$ git status
+
+On branch continuous-improvement
+
+Changes to be committed:
+  new skill
+  better architecture
+  deeper understanding
+
+F1N1X@backend:~$ █
+```
+
+<br>
+
+### `BUILD  //  LEARN  //  UNDERSTAND  //  REFACTOR`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:161B22,100:238636" />
+
+</div>
