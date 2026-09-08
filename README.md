@@ -1,178 +1,152 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/f1n1x-banner.svg" width="100%" alt="F1N1X Java Backend Systems" />
+</p>
 
-# `F1N1X`
+<p align="center">
+  <strong>Java Backend Engineering · Spring · Architecture · Continuous Improvement</strong>
+</p>
 
-### Java Backend Engineering · Software Architecture · Continuous Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+systems.+Understanding+systems.;Java+%7C+Spring+%7C+Backend+Engineering;Learn.+Build.+Refactor.+Repeat.;Curiosity+never+goes+offline." />
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-Engineering-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Learning-ACTIVE-238636?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <code>Readable systems</code> · <code>Clear boundaries</code> · <code>Testable design</code> · <code>Deliberate learning</code>
+</p>
 
 <br>
 
-## `> whoami`
+> engineering_profile
 
-```java
-public final class Steven {
+I'm Steven / F1N1X. I build backend systems to understand them deeply, not just to make them run.
 
-    String alias = "F1N1X";
-    String focus = "Java Backend Engineering";
+My current focus is Java backend engineering with an emphasis on maintainability, explicit architecture and continuously improving the quality of my own code.
 
-    void mindset() {
-        learn();
-        build();
-        question();
-        refactor();
-        repeat();
-    }
-}
-```
+FOUNDATIONS      Java · OOP · Interfaces · DI · Collections · Streams
+BACKEND          Spring Boot · REST · JPA · Security · JWT
+DATA             PostgreSQL · MySQL
+DELIVERY         Docker · AWS · GitHub Actions
+QUALITY          JUnit 5 · MockMvc · Testcontainers · Refactoring
+SYSTEMS          Service boundaries · Microservices · Eureka
 
-I build software because I want to understand how systems work.
-
-My focus is not collecting technologies.
-
-It is becoming better at **Java, backend engineering, architecture and writing software that remains understandable when projects grow.**
+I care about the engineering decisions behind a solution: why this boundary, why this abstraction, why this dependency, and whether the result will still be understandable six months later.
 
 <br>
 
-## `> stack`
+> currently_building
 
-<div align="center">
+🚗 car-booking
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,aws,git,github,linux,idea,postman" />
+A deliberate Java learning project that evolves through increasingly stronger engineering practices: interfaces, dependency injection, collections, streams, testing and Spring.
 
-<br><br>
+Java OOP DI DAO Streams Functional Programming File I/O
 
-`Java` · `Spring Boot` · `REST` · `JPA` · `Security` · `JWT` · `Docker` · `AWS`
 
-</div>
 
-<br>
 
-## `> selected_work`
+🧪 java-exercises
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My practice ground for strengthening Java fundamentals, experimenting with language features and turning new concepts into muscle memory.
 
-### 🚗 car-booking
+Java Streams Algorithms OOP Practice
 
-Core Java project focused on clean application design.
 
-`Java` `OOP` `DAO` `Streams` `File I/O`
 
-<a href="https://github.com/F1N1X/car-booking">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 SB-eCommerce
-
-RESTful backend built around the Spring ecosystem.
-
-`Spring Boot` `JPA` `Security` `JWT` `AWS`
-
-<a href="https://github.com/F1N1X/SB-eCommerce">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 food-backend
-
-Exploration of distributed backend architecture.
-
-`Spring` `Microservices` `Eureka`
-
-<a href="https://github.com/F1N1X/food-backend">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 java-exercises
-
-A repository dedicated to something I consider essential:
-
-**consistent practice.**
-
-`Java` `Streams` `Algorithms` `OOP`
-
-<a href="https://github.com/F1N1X/java-exercises">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
-</a>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-## `> activity`
+> selected_systems
 
-<div align="center">
+🛒 SB-eCommerce
 
-<img src="https://streak-stats.demolab.com?user=F1N1X&theme=github-dark-blue&hide_border=true" />
+A modular RESTful eCommerce backend focused on the parts that matter in real backend systems: authentication, authorization, persistence, API design, testing and deployment.
 
-<br>
+Spring Boot Spring Data JPA Spring Security 6 JWT PostgreSQL Docker AWS JUnit 5 Testcontainers
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F1N1X&theme=github-compact&hide_border=true&area=true" width="95%" />
+🌐 food-backend
 
-</div>
+Exploration of distributed backend architecture with multiple services and service discovery.
 
-<br>
+Spring Microservices Eureka Service Boundaries
 
-## `> philosophy`
+📱 FreizeitApp
 
-<div align="center">
+Earlier product exploration outside the Java ecosystem: a Flutter/Dart mobile app concept for creating events and connecting people.
 
-### `stay curious.`
-
-> **Wer aufgehört hat zu lernen, hat aufgehört zu wachsen.**
-
-I want to be able to look at code I wrote months ago and think:
-
-### *"I know how I would build this better today."*
-
-Because that means I learned something.
+Flutter Dart Mobile Product Thinking
 
 <br>
 
-```text
-BUILD  →  QUESTION  →  LEARN  →  REFACTOR
-  ↑                                  │
-  └──────────────────────────────────┘
-```
+> engineering_signals
+
+Backend first
+I strengthen fundamentals before hiding complexity behind frameworks.
+
+Architecture aware
+I care about separation of concerns, clear boundaries and code that can evolve without becoming fragile.
+
+Production minded
+Security, persistence, testing and deployment are part of the system, not afterthoughts.
+
+Evidence over claims
+Active repositories and visible commit history show what I am learning and building instead of relying on a list of buzzwords.
 
 <br>
 
-**Readable > Clever**  
-**Understanding > Copying**  
-**Consistency > Motivation**  
-**Progress > Perfection**
+> toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,aws,git,github,flutter,dart" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <code>Java</code> · <code>Spring Boot</code> · <code>REST</code> · <code>JPA</code> · <code>Security</code> · <code>JWT</code> · <code>SQL</code> · <code>Docker</code> · <code>AWS</code>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/CURIOSITY-ONLINE-238636?style=flat-square" />
-<img src="https://img.shields.io/badge/LEARNING-ACTIVE-1F6FEB?style=flat-square" />
-<img src="https://img.shields.io/badge/BUILDING-IN_PROGRESS-D29922?style=flat-square" />
+> activity
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F1N1X&theme=github-compact&hide_border=true&area=true" width="96%" alt="F1N1X contribution activity" />
+</p>
 
-`F1N1X@backend:~$ keep_building_`
+<p align="center">
+  <img src="https://img.shields.io/badge/CURIOSITY-ONLINE-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/LEARNING-ACTIVE-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/BUILDING-IN_PROGRESS-D29922?style=flat-square" />
+</p>
 
-</div>
+<br>
+
+> philosophy
+
+<p align="center">
+  <strong>Wer aufhört zu lernen, hört auf zu wachsen.</strong>
+</p>
+
+<p align="center">
+  I want to look at code I wrote months ago and think:
+</p>
+
+<p align="center">
+  <strong><em>"I know how I would build this better today."</em></strong>
+</p>
+
+<p align="center">
+  Because that means I learned something.
+</p>
+
+BUILD  →  QUESTION  →  LEARN  →  REFACTOR  →  BUILD
+
+<p align="center">
+  <code>Readable &gt; Clever</code>
+  &nbsp;·&nbsp;
+  <code>Understanding &gt; Copying</code>
+  &nbsp;·&nbsp;
+  <code>Consistency &gt; Motivation</code>
+  &nbsp;·&nbsp;
+  <code>Progress &gt; Perfection</code>
+</p>
+
+<br>
+
+<p align="center">
+  <code>F1N1X@backend:~$ keep_building_</code>
+</p>
