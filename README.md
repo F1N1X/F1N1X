@@ -1,227 +1,75 @@
-**👋 Hey, ich bin Steven (FN1X)
-finix@backend:~$ whoami
+<div align="center">
 
-while(true) {
-    learn();
-    build();
-    improve();
-}
-**<div align="center">
+# `F1N1X`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│     ███████╗ ██╗ ███╗   ██╗ ██╗ ██╗  ██╗                   │
-│     ██╔════╝ ██║ ████╗  ██║ ██║ ╚██╗██╔╝                   │
-│     █████╗   ██║ ██╔██╗ ██║ ██║  ╚███╔╝                    │
-│     ██╔══╝   ██║ ██║╚██╗██║ ██║  ██╔██╗                    │
-│     ██║      ██║ ██║ ╚████║ ██║ ██╔╝ ██╗                   │
-│     ╚═╝      ╚═╝ ╚═╝  ╚═══╝ ╚═╝ ╚═╝  ╚═╝                   │
-│                                                              │
-│                  finix@backend:~$ _                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### Java Backend Engineering · Software Architecture · Continuous Learning
 
-### ☕ Java Backend • ⚙️ Software Engineering • 🧠 Always Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+backend+systems...;Learning+something+new...;Refactoring+until+it+feels+right...;Java+%7C+Spring+%7C+APIs+%7C+Architecture;Never+stop+learning.+Never+stop+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+systems.+Understanding+systems.;Java+%7C+Spring+%7C+Backend+Engineering;Learn.+Build.+Refactor.+Repeat.;Curiosity+never+goes+offline." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=F1N1X&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/F1N1X?style=for-the-badge&logo=github&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/F1N1X?style=for-the-badge&logo=github&label=STARS" />
+<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-Engineering-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-ACTIVE-238636?style=for-the-badge" />
 
 </div>
 
----
+<br>
 
 ## `> whoami`
 
 ```java
-public class Steven {
+public final class Steven {
 
-    private final String username = "F1N1X";
-    private final String focus = "Java Backend Engineering";
+    String alias = "F1N1X";
+    String focus = "Java Backend Engineering";
 
-    private final List<String> interests = List.of(
-            "Backend Development",
-            "Software Architecture",
-            "Clean Code",
-            "REST APIs",
-            "Spring",
-            "Functional Programming",
-            "Distributed Systems",
-            "Cloud & DevOps"
-    );
-
-    public void dailyRoutine() {
+    void mindset() {
         learn();
         build();
+        question();
         refactor();
-        improve();
         repeat();
     }
 }
 ```
 
-I'm **Steven** — a technology enthusiast with a strong focus on  
-**Java Backend Development and Software Engineering**.
+I build software because I want to understand how systems work.
 
-I like understanding **why systems work**, not just making them work.
+My focus is not collecting technologies.
 
-For me, programming means continuously moving between:
+It is becoming better at **Java, backend engineering, architecture and writing software that remains understandable when projects grow.**
 
-```text
-      LEARN
-        ▲
-        │
-        │
-BUILD ◄─┼─► BREAK
-        │
-        │
-        ▼
-     IMPROVE
-```
+<br>
 
-I enjoy taking an idea, building it, questioning the design,
-refactoring it and learning something new in the process.
-
----
-
-# ⚡ Engineering Mindset
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Build
-
-I learn best by creating real software.
-
-```text
-idea
-  │
-  ▼
-prototype
-  │
-  ▼
-working software
-  │
-  ▼
-refactoring
-  │
-  ▼
-better architecture
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Understand
-
-I don't want to simply know **how**.
-
-I want to understand:
-
-```text
-Why this design?
-Why this abstraction?
-Why this data structure?
-Why this architecture?
-Can it be simpler?
-Can it be cleaner?
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔥 Current Mission
-
-```text
-[ RUNNING ]  Deepen Java knowledge
-[ RUNNING ]  Improve backend architecture skills
-[ RUNNING ]  Practice Functional Programming
-[ RUNNING ]  Build maintainable REST APIs
-[ RUNNING ]  Learn through real-world projects
-[ RUNNING ]  Refactor old code with new knowledge
-
-[ STATUS  ]  Continuous improvement enabled
-```
-
-> Learning is not a phase of becoming a developer.  
-> **Learning is part of being a developer.**
-
----
-
-# 🛠️ Tech Stack
+## `> stack`
 
 <div align="center">
 
-### `// CORE`
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,aws,git,github,linux,idea,postman" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,idea" />
+<br><br>
 
-### `// BACKEND & DATA`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-
-### `// CLOUD & TOOLS`
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,postman" />
-
-### `// ALSO EXPLORED`
-
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
+`Java` · `Spring Boot` · `REST` · `JPA` · `Security` · `JWT` · `Docker` · `AWS`
 
 </div>
 
 <br>
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST](https://img.shields.io/badge/REST-APIs-009688?style=flat-square)
-![Security](https://img.shields.io/badge/Security-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Architecture](https://img.shields.io/badge/Focus-Clean_Architecture-blueviolet?style=flat-square)
-![Learning](https://img.shields.io/badge/Mode-Continuous_Learning-brightgreen?style=flat-square)
-
-</div>
-
----
-
-# 🚀 Selected Projects
+## `> selected_work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Car Booking
+### 🚗 car-booking
 
-**Java booking system**
-
-A project I'm using to deepen my understanding of core Java and software design.
+Core Java project focused on clean application design.
 
 `Java` `OOP` `DAO` `Streams` `File I/O`
 
-Topics explored:
-
-- domain modelling
-- DAO architecture
-- object serialization
-- UUID based entities
-- Java Stream API
-- functional programming
-- refactoring
-- separation of concerns
-
 <a href="https://github.com/F1N1X/car-booking">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
 </a>
 
 </td>
@@ -229,25 +77,12 @@ Topics explored:
 
 ### 🛒 SB-eCommerce
 
-**RESTful eCommerce Backend**
+RESTful backend built around the Spring ecosystem.
 
-Backend project focused on building a more realistic application architecture.
-
-`Java` `Spring Boot` `JPA` `Security` `JWT` `AWS`
-
-Topics explored:
-
-- REST API design
-- Spring Boot
-- Spring Data JPA
-- authentication
-- authorization
-- JWT
-- Spring Security
-- cloud concepts
+`Spring Boot` `JPA` `Security` `JWT` `AWS`
 
 <a href="https://github.com/F1N1X/SB-eCommerce">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
 </a>
 
 </td>
@@ -256,258 +91,88 @@ Topics explored:
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Food Backend
+### 🌐 food-backend
 
-**Spring / Microservices Exploration**
+Exploration of distributed backend architecture.
 
-Exploring backend systems beyond a single application.
-
-`Java` `Spring` `Microservices` `Eureka`
-
-Topics explored:
-
-- service separation
-- Spring ecosystem
-- service discovery
-- distributed application concepts
-- backend communication
+`Spring` `Microservices` `Eureka`
 
 <a href="https://github.com/F1N1X/food-backend">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧪 Java Exercises
+### 🧪 java-exercises
 
-**Continuous Java Practice**
+A repository dedicated to something I consider essential:
 
-Not every repository needs to become a product.
+**consistent practice.**
 
-This one exists for something equally important:
-
-**practice.**
-
-`Java` `Algorithms` `Streams` `OOP` `Learning`
-
-```text
-learn → code → fail → understand → refactor
-                       ↑              │
-                       └──────────────┘
-```
+`Java` `Streams` `Algorithms` `OOP`
 
 <a href="https://github.com/F1N1X/java-exercises">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=flat-square&logo=github">
 </a>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# 📡 Developer Activity
+## `> activity`
 
 <div align="center">
 
-### `SYSTEM ACTIVITY // F1N1X`
+<img src="https://streak-stats.demolab.com?user=F1N1X&theme=github-dark-blue&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F1N1X&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=F1N1X&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
----
-
-# 📊 GitHub Telemetry
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=F1N1X&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1N1X&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1N1X&theme=github_dark" width="95%" />
-
-</div>
-
----
-
-# 📚 Continuous Learning
+## `> philosophy`
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     CONTINUOUS LEARNING                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║    Knowledge is never finished.                              ║
-║                                                              ║
-║    Every project exposes something I don't know.             ║
-║    Every bug teaches something.                              ║
-║    Every refactoring improves understanding.                 ║
-║    Every new concept changes how I see old code.             ║
-║                                                              ║
-║    BUILD  ──►  QUESTION  ──►  LEARN  ──►  IMPROVE           ║
-║      ▲                                         │             ║
-║      └─────────────────────────────────────────┘             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### My rule
+### `stay curious.`
 
 > **Wer aufgehört hat zu lernen, hat aufgehört zu wachsen.**
 
-Technology never stands still — and neither should a developer.
+I want to be able to look at code I wrote months ago and think:
 
-I don't measure progress only by how many technologies I know.
+### *"I know how I would build this better today."*
 
-I measure it by whether I can look at code I wrote months ago and say:
-
-**“I know how I would build this better today.”**
-
-That means I learned something.
-
----
-
-# 🧬 Engineering Philosophy
-
-```text
-Readable     > Clever
-
-Simple       > Complicated
-
-Understand   > Copy
-
-Build        > Just watch tutorials
-
-Consistency  > Short bursts of motivation
-
-Progress     > Perfection
-```
-
-### `while (alive)`
-
-```java
-while (true) {
-    stayCurious();
-    learnSomethingNew();
-    buildSomething();
-    questionMyAssumptions();
-    improve();
-}
-```
-
----
-
-# 🛰️ Evolution
-
-```text
-Flutter / Dart
-      │
-      ▼
- Java Fundamentals
-      │
-      ▼
- Spring Boot
-      │
-      ├──── REST APIs
-      ├──── Persistence
-      ├──── Security / JWT
-      └──── Microservices
-      │
-      ▼
- Architecture & Clean Code
-      │
-      ▼
-          ?
-     NEXT LEVEL
-```
-
-The stack will change.
-
-**The curiosity won't.**
-
----
-
-# 💭 Things I Care About
-
-```text
-01  Clean and understandable code
-02  Strong Java fundamentals
-03  Good software architecture
-04  Learning how things work internally
-05  Backend systems that scale conceptually
-06  Continuous experimentation
-07  Becoming better than yesterday
-```
-
----
-
-# 📟 System Status
-
-```yaml
-developer:
-  name: Steven
-  alias: F1N1X
-  specialization: Java Backend
-
-status:
-  curiosity: online
-  learning: active
-  building: active
-  caffeine: probably
-  giving_up: false
-
-current_focus:
-  - Java
-  - Backend Engineering
-  - Spring
-  - Functional Programming
-  - Software Architecture
-  - Clean Code
-
-next:
-  - deeper backend knowledge
-  - better system design
-  - more real-world projects
-```
-
----
-
-<div align="center">
-
-## `finix@backend:~$`
-
-### **BUILD → LEARN → REFACTOR → REPEAT**
+Because that means I learned something.
 
 <br>
 
-*"Wer aufgehört hat zu lernen, hat aufgehört zu wachsen."*
+```text
+BUILD  →  QUESTION  →  LEARN  →  REFACTOR
+  ↑                                  │
+  └──────────────────────────────────┘
+```
 
 <br>
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-22c55e?style=for-the-badge)
-![Learning](https://img.shields.io/badge/LEARNING-ACTIVE-3b82f6?style=for-the-badge)
-![Building](https://img.shields.io/badge/BUILDING-IN_PROGRESS-f59e0b?style=for-the-badge)
+**Readable > Clever**  
+**Understanding > Copying**  
+**Consistency > Motivation**  
+**Progress > Perfection**
+
+<br>
+
+<img src="https://img.shields.io/badge/CURIOSITY-ONLINE-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/BUILDING-IN_PROGRESS-D29922?style=flat-square" />
 
 <br><br>
 
-`EOF? Not yet.`
+`F1N1X@backend:~$ keep_building_`
 
 </div>
