@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:050A12,45:0D2A4A,100:1F6FEB&text=Steven&fontColor=F0F6FC&fontSize=54&fontAlignY=34&desc=JAVA%20BACKEND%20%2F%2F%20SYSTEMS%20%2F%2F%20ENGINEERING&descAlignY=61&descSize=14&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:050A12,45:0D2A4A,100:1F6FEB&text=Steven&fontColor=F0F6FC&fontSize=58&fontAlignY=34&desc=JAVA%20BACKEND%20%2F%2F%20SYSTEMS%20%2F%2F%20ENGINEERING&descAlignY=62&descSize=14&animation=fadeIn"
     alt="Steven | Java Backend Engineering"
   />
 </p>
@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=79C0FF&center=true&vCenter=true&width=760&lines=%5BBOOT%5D+Java+Backend+Environment...;%5BOK%5D+Core+Java+loaded.;%5BOK%5D+Spring+ecosystem+loading.;%5BOK%5D+Problem+solving+enabled.;%5BREADY%5D+F1N1X+online."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=79C0FF&center=true&vCenter=true&width=760&lines=%5BBOOT%5D+Java+Backend+Environment...;%5BOK%5D+Core+Java+loaded.;%5BOK%5D+Spring+ecosystem+loading.;%5BOK%5D+Problem+solving+enabled.;%5BOK%5D+Continuous+learning+active.;%5BREADY%5D+F1N1X+online."
   alt="F1N1X boot sequence"
 />
 
@@ -49,7 +49,7 @@ public final class Steven {
     private final String alias = "F1N1X";
     private final String focus = "Java Backend Engineering";
 
-    private final String[] principles = {
+    private final String[] values = {
         "understand first",
         "build deliberately",
         "test assumptions",
