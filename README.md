@@ -1,66 +1,136 @@
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:050A12,45:0D2A4A,100:1F6FEB&text=Steven&fontColor=F0F6FC&fontSize=58&fontAlignY=34&desc=JAVA%20BACKEND%20%2F%2F%20SYSTEMS%20%2F%2F%20ENGINEERING&descAlignY=62&descSize=14&animation=fadeIn"
-    alt="Steven | Java Backend Engineering"
-  />
-</p>
+## `> tech_stack --inspect`
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=79C0FF&center=true&vCenter=true&width=760&lines=%5BBOOT%5D+Java+Backend+Environment...;%5BOK%5D+Core+Java+loaded.;%5BOK%5D+Spring+ecosystem+loading.;%5BOK%5D+Problem+solving+enabled.;%5BOK%5D+Continuous+learning+active.;%5BREADY%5D+F1N1X+online."
-  alt="F1N1X boot sequence"
-/>
+<table>
+
+<tr>
+
+<td align="center" width="25%" valign="top">
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+
+<br><br>
+
+`Java`  
+`Spring Boot`  
+`REST APIs`  
+`Maven`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `DATA`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<br><br>
+
+`SQL`  
+`PostgreSQL`  
+`MySQL`  
+`JPA / Hibernate`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `QUALITY`
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<br><br>
+
+`JUnit 5`  
+`Mockito`  
+`API Testing`  
+`Debugging`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `PLATFORM`
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+<br><br>
+
+`Docker`  
+`Git`  
+`GitHub`  
+`Linux`
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<img src="https://img.shields.io/badge/JAVA-BACKEND-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SPRING-ECOSYSTEM-58A6FF?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-79C0FF?style=for-the-badge" />
-
-<br><br>
-
-<code>UNDERSTAND</code>
-&nbsp;→&nbsp;
-<code>ANALYSE</code>
-&nbsp;→&nbsp;
-<code>BUILD</code>
-&nbsp;→&nbsp;
-<code>TEST</code>
-&nbsp;→&nbsp;
-<code>IMPROVE</code>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/steven-schwarzw%C3%A4lder-ba629433/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/JAVA-BACKEND-1F6FEB?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING-ECOSYSTEM-58A6FF?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-APIs-79C0FF?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-DATA-A5D6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/TESTING-ACTIVE-C9E8FF?style=flat-square" />
 
 </div>
 
 <br>
 
-## `> whoami`
+### `> foundations`
 
-```java
-public final class Steven {
+<div align="center">
 
-    private final String alias = "F1N1X";
-    private final String focus = "Java Backend Engineering";
+`OOP`
+&nbsp;·&nbsp;
+`Generics`
+&nbsp;·&nbsp;
+`Collections`
+&nbsp;·&nbsp;
+`Streams`
+&nbsp;·&nbsp;
+`Functional Interfaces`
+&nbsp;·&nbsp;
+`Dependency Injection`
+&nbsp;·&nbsp;
+`DAO`
+&nbsp;·&nbsp;
+`Layered Architecture`
 
-    private final String[] values = {
-        "understand first",
-        "build deliberately",
-        "test assumptions",
-        "refactor continuously"
-    };
+</div>
 
-    void evolve() {
-        learn();
-        build();
-        test();
-        refactor();
-        improve();
-    }
-}
+<br>
+
+### `> previous_experience`
+
+<div align="center">
+
+`C# / .NET`
+&nbsp;·&nbsp;
+`REST`
+&nbsp;·&nbsp;
+`SQL / Databases`
+&nbsp;·&nbsp;
+`Testing`
+&nbsp;·&nbsp;
+`Deployment`
+
+</div>
+
+<br>
+
+### `> currently_deepening`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JUnit%205-LEARNING-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/Mockito-LEARNING-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Spring%20Framework-DEEPENING-79C0FF?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-DEEPENING-A5D6FF?style=flat-square&logo=spring&logoColor=white" />
+
+</div>
