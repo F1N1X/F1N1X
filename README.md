@@ -44,6 +44,27 @@
 </div>
 
 <br>
+## `> commit_stack`
+
+<div align="center">
+
+<!-- 3D Contribution Landscape mit den Türmen + Commit/Issue/PR Radar -->
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="96%"
+  alt="F1N1X Contribution Landscape"
+/>
+
+<br><br>
+
+<!-- Contribution Card mit Contributions, Repos und Jahresverlauf -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1N1X&theme=github_dark"
+  width="96%"
+  alt="F1N1X Contribution Card"
+/>
+
+</div>
 
 ## `> whoami`
 
